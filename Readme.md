@@ -17,7 +17,6 @@ Este é um projeto de sensor de águas que consiste em um dispositivo que pode s
 - Node.js
 - Express
 - MongoDB
-- React
 - Axios
 
 ## Licença
